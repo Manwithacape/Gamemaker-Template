@@ -9,3 +9,4 @@
 function map_value(_value, _in_min, _in_max, _out_min, _out_max) {
     return _out_min + ((_value - _in_min) * (_out_max - _out_min) / (_in_max - _in_min));
 }
+

@@ -35,6 +35,7 @@
   "name":"Gamemaker Template",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_array_2d","path":"scripts/scr_array_2d/scr_array_2d.yy",},},
     {"id":{"name":"scr_number","path":"scripts/scr_number/scr_number.yy",},},
   ],
   "resourceType":"GMProject",
