@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_array_2d",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Array Utils",
+    "path":"folders/Scripts/Util Scripts/Array Utils.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_number",
+  "%Name":"scr_draw",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_number",
+  "name":"scr_draw",
   "parent":{
-    "name":"Math Utils",
-    "path":"folders/Scripts/Util Scripts/Math Utils.yy",
+    "name":"Draw Utils",
+    "path":"folders/Scripts/Util Scripts/Draw Utils.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

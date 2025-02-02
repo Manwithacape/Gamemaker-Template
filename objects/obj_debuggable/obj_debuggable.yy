@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
-  "eventList":[],
+  "%Name":"obj_debuggable",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_debuggable",
   "overriddenProperties":[],
   "parent":{
-    "name":"Gameplay Objects",
-    "path":"folders/Objects/Gameplay Objects.yy",
+    "name":"Debug Objects",
+    "path":"folders/Objects/Debug Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_debuggable",
-    "path":"objects/obj_debuggable/obj_debuggable.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_block_movement",
-    "path":"sprites/spr_block_movement/spr_block_movement.yy",
+    "name":"spr_debuggable",
+    "path":"sprites/spr_debuggable/spr_debuggable.yy",
   },
   "spriteMaskId":null,
   "visible":true,
